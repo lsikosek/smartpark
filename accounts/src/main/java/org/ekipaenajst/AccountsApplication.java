@@ -1,8 +1,8 @@
-package org.ekipaenajst.api.v1;
+package org.ekipaenajst;
+
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
 
 @ApplicationPath("v1")
-public class SmartparkApplication extends Application {
-
+public class AccountsApplication extends Application {
 }
